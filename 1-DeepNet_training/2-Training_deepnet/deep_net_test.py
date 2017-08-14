@@ -1,6 +1,5 @@
 #Test the deep-net on validation set
-__author__ = 'Marco'
-__author__ = 'Marco'
+__author__ = 'shubhirastogi'
 
 import theano
 from theano import tensor as T

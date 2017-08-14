@@ -1,6 +1,5 @@
 #Training of Deep Net using 5 classes (4 poselet types + background)
-__author__ = 'Marco'
-__author__ = 'Marco'
+__author__ = 'shubhirastogi'
 
 import theano
 from theano import tensor as T
