@@ -6,8 +6,6 @@ The software is written in Matlab and Python, to use the software you need to in
 * Python
 * Theano (minimum version required 0.7.0)
 
-Author Marco Saviano.
+Author Shubhi Rastogi.
 
-University of Naples Parthenope, CVPR Laboratory.
-
-email: marco.saviano.89@gmail.com
+BITS Pilani , Rajasthan
