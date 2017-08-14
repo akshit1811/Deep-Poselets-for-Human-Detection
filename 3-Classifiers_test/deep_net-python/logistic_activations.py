@@ -1,3 +1,5 @@
+# __author__ = 'shubhirastogi'
+
 import theano
 from theano import tensor as T
 from logistic_sgd import LogisticRegression

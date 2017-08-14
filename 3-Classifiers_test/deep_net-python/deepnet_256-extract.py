@@ -1,5 +1,5 @@
 # Extract 256d feature vector from image patch
-__author__ = 'marcosaviano'
+__author__ = 'shubhirastogi'
 
 import theano
 from theano import tensor as T
